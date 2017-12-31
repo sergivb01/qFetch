@@ -76,4 +76,3 @@ hs_err_pid*
 .gitignore
 .idea/
 ServerSync.iml
-src/

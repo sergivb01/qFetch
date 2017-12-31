@@ -1,0 +1,6 @@
+name: qFetch
+main: me.sergivb01.serversync.ServerSync
+author: sergivb01
+version: 1.0
+commands:
+  qfetch:
